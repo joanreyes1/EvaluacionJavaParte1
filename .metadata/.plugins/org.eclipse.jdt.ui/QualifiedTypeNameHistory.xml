@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Numero"/>
+<fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Palos"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Random"/>
+<fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Naipe"/>
+<fullyQualifiedTypeName name="java.io.StreamCorruptedException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.cmc.evaluacion.entidades.Carta"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>

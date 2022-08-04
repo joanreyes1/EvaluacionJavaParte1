@@ -1,0 +1,23 @@
+package com.cmc.evaluacion.entidades;
+
+public class Palos {
+	private final static String CORAZON_ROJO = "CR";
+	private final static String CORAZON_NEGRO = "CN";
+	private final static String DIAMANTE = "DI";
+	private final static String TREBOL = "TR";
+	
+	public static String getCorazonRojo() {
+		return CORAZON_ROJO;
+	}
+	public static String getCorazonNegro() {
+		return CORAZON_NEGRO;
+	}
+	public static String getDiamante() {
+		return DIAMANTE;
+	}
+	public static String getTrebol() {
+		return TREBOL;
+	}
+	
+	
+}

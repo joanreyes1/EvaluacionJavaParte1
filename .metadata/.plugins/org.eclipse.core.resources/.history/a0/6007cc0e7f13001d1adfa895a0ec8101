@@ -1,0 +1,33 @@
+package com.cmc.evaluacion.servicios;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import com.cmc.evaluacion.entidades.Carta;
+import com.cmc.evaluacion.entidades.Naipe;
+
+public class Juego {
+	private Naipe naipe;
+	private HashMap<String, ArrayList<Carta>> cartasJugador = new HashMap<String, ArrayList<Carta>>();
+	private ArrayList<Carta> naipeBarajado = new ArrayList<Carta>();
+	private String[] jugadores;
+
+	public HashMap<String, ArrayList<Carta>> getCartasJugador() {
+		return cartasJugador = new HashMap<String, ArrayList<Carta>>();
+	}
+
+	public Juego(String[] jugadores) {
+		naipe = new Naipe();
+		naipeBarajado = naipe.barajar();
+	}
+	
+	public void entregarCarta(int cartasPorJugador){
+		int posicion = 0;
+		for(int i = 1;i<cartasPorJugador;i++){
+			naipeBarajado.get(posicion);
+			posicion++;
+		}
+		cartasJugador.put(ju, value)
+		
+	}
+}
